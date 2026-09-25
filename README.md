@@ -9,7 +9,7 @@ What I'm working on
 - Frontend Development — building responsive web applications and strengthening my JavaScript/TypeScript fundamentals.
 - AI/ML — learning machine learning and experimenting with practical AI applications.
 - Technology & Systems — exploring how software, hardware, networking, and infrastructure can work together.
-- Entrepreneurship — developing ideas and projects under Gitaris Technologies.
+- Entrepreneurship — developing ideas and projects under Gidaris Technologies.
 
 Selected Projects
 
